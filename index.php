@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <a href="diego.php">Hoja de vida Diego Betancourt</a>
 </body>
 </html>
