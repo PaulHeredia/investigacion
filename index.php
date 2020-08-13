@@ -8,5 +8,6 @@
 <body>
     <a href="diego.php">Hoja de vida Diego Betancourt</a>
     <a href="Sebastian.php"></a>
+    <a href="paul.php">Hoja de Vida - Paul Heredia</a>
 </body>
 </html>
