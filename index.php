@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <a href="paul.php">Hoja de Vida - Paul Heredia</a>
 </body>
 </html>
